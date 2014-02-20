@@ -1,5 +1,5 @@
 
-var sift = require('sift');
+var sift = require('timoxley-sift');
 
 
 /**

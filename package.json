@@ -1,0 +1,16 @@
+{
+  "name": "ianstormtaylor-closest-match",
+  "description": "Find the closest match for a string from an array of matches, using string distance.",
+  "version": "0.0.1",
+  "keywords": [
+    "string",
+    "distance",
+    "match",
+    "closest",
+    "correct"
+  ],
+  "dependencies": {
+    "timoxley-sift": "git://github.com/npmcomponent/timoxley-sift.git"
+  },
+  "license": "MIT"
+}
